@@ -7,5 +7,6 @@ libgteditorgui_la_CXXFLAGS = \
 libgteditor_gui_la_SOURCES = \
 	Configuration.cc \
 	MainWindow.cc \
+	Sheet.cc \
 	Staff.cc \
 	Util.cc
